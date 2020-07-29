@@ -1,0 +1,7 @@
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\pablo.alvarez\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
