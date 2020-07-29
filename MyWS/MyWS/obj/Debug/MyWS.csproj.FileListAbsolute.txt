@@ -1,0 +1,7 @@
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\bin\MyWS.dll.config
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\bin\MyWS.dll
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\bin\MyWS.pdb
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\obj\Debug\MyWS.csprojAssemblyReference.cache
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\obj\Debug\MyWS.csproj.CoreCompileInputs.cache
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\obj\Debug\MyWS.dll
+C:\Users\pablo.alvarez\source\repos\MyWS\MyWS\obj\Debug\MyWS.pdb

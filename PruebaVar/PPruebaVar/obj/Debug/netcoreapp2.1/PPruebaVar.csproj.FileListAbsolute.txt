@@ -1,0 +1,11 @@
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\bin\Debug\netcoreapp2.1\PPruebaVar.deps.json
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\bin\Debug\netcoreapp2.1\PPruebaVar.runtimeconfig.json
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\bin\Debug\netcoreapp2.1\PPruebaVar.runtimeconfig.dev.json
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\bin\Debug\netcoreapp2.1\PPruebaVar.dll
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\bin\Debug\netcoreapp2.1\PPruebaVar.pdb
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.csprojAssemblyReference.cache
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.csproj.CoreCompileInputs.cache
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.AssemblyInfoInputs.cache
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.AssemblyInfo.cs
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.dll
+C:\Users\pablo.alvarez\source\repos\PruebaVar\PPruebaVar\obj\Debug\netcoreapp2.1\PPruebaVar.pdb
